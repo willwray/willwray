@@ -1,4 +1,12 @@
-### Hi there 👋
+## A Decentralized Developer with a Scientific Side and an Engineering Edge
+
+The logo is a parallel projection of a Clifford Torus
+
+Here be mostly C++ metaprogramming project repos
+
+Long term working towards Modular Data formats
+
+Currently working on renovation of array-related language features in C and C++
 
 <!--
 **willwray/willwray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
